@@ -1,0 +1,18 @@
+/* estilo.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 20xp;
+}
+
+h1 {
+    color: #4a90e2;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
